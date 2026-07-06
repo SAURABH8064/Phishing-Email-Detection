@@ -1,0 +1,21 @@
+text,label
+"Congratulations! You won a free iPhone. Click here.",phishing
+"Claim your reward now by clicking this link.",phishing
+"Your bank account has been suspended. Verify immediately.",phishing
+"Win cash prizes today!",phishing
+"Update your password immediately.",phishing
+"Your PayPal account has been limited. Verify now.",phishing
+"Click here to claim your Amazon gift card.",phishing
+"Urgent! Your account will be blocked.",phishing
+"You have won a lottery. Click the link.",phishing
+"Reset your password immediately.",phishing
+"Meeting scheduled for tomorrow at 10 AM.",safe
+"Please find the attached project report.",safe
+"Happy Birthday! Have a great day.",safe
+"Your order has been shipped successfully.",safe
+"Let's have lunch together tomorrow.",safe
+"Project discussion starts at 2 PM.",safe
+"Your exam schedule has been released.",safe
+"Thank you for your purchase.",safe
+"Welcome to our company.",safe
+"Team meeting has been postponed.",safe
